@@ -33,7 +33,7 @@
 - [2020/04] **[FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://arxiv.org/abs/2004.02178)** : *FastBERT*
 - [2020/04] **[FLAT: Chinese NER Using Flat-Lattice Transformer](https://arxiv.org/abs/2004.11795)** : *FLAT*
 - [2020/05] **[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796.pdf)**
-- [2020/05] **[Language Models are Few-Shot Learners](https://arxiv.org/pdf/2005.14165.pdf)** : *GPT-3* [[Dataset]](https://github.com/openai/gpt-3)
+- [2020/05] **[Language Models are Few-Shot Learners](https://deepai.org/publication/language-models-are-few-shot-learners)** : *GPT-3* [[Dataset]](https://github.com/openai/gpt-3)
 
 ### 2019
 
