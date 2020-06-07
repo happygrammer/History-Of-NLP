@@ -1,4 +1,4 @@
-<h1 align="center"> 	✨ NLP-Papers ✨
+<h1 align="center"> 	✨ NLP-Papers ✨</h1>
 
 <p align="center" style="font-size:10px">
   <em>
