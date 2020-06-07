@@ -1,2 +1,2 @@
 * linguist-vendored
-*.ai linguist-vendored=false
+static/* linguist-vendored
