@@ -1,14 +1,11 @@
 <h1 align="center"> 	✨ NLP-Papers ✨
 
-<p align="center">
+<p align="center" style="font-size:10px">
   <em>
     NLU
     · NLG
     · NLI
-  </em>
-  <br />
-  <em>
-    POS
+    · POS
     · NER
     · MT
     · QA
