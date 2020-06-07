@@ -1,4 +1,4 @@
-<h1 align="center"> 	✨ NLP-Papers ✨</h1>
+<h1 align="center"> 	✨ History-Of-NLP ✨</h1>
 
 <p align="center" style="font-size:10px">
   <em>
@@ -12,7 +12,7 @@
   </em>
 	<br/>
   <em>
-    Collection of famous NLP papers.
+    Collection of famous NLP papers & Data.
   </em>
 </p>
 
