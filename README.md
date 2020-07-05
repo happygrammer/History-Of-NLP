@@ -12,7 +12,7 @@
   </em>
 	<br/>
   <em>
-    Collection of famous NLP papers & Data.
+    Collection of contribution points for NLP papers & Data.
   </em>
 </p>
 
@@ -21,6 +21,8 @@
 ### 2020
 
 - [2020/01] **[Reformer: The Efficient Transformer](https://arxiv.org/abs/2001.04451.pdf)** : *Reformer*
+	- 1) This paper used replace dot-product attention by one that uses locality-sensitive hashing.
+	- 2) Researchers also used reversible residual layers instead of the standard residuals.
 - [2020/01] **[PoWER-BERT: Accelerating BERT inference for Classification Tasks](https://arxiv.org/abs/2001.08950)** : *PoWER-BERT*
 - [2020/01] **[Towards a Human-like Open-Domain Chatbot](https://arxiv.org/abs/2001.09977.pdf)** + *[Google AI Blog](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)* : Meena
 - [2020/03] **[ELECTRA: Pre-training Text Encoders as Discriminators Rather Than Generators](https://arxiv.org/abs/2003.10555.pdf)** : *ELECTRA*
