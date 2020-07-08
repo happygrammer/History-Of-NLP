@@ -36,12 +36,11 @@
 - [2020/04] **[FLAT: Chinese NER Using Flat-Lattice Transformer](https://arxiv.org/abs/2004.11795)** : *FLAT*
 - [2020/05] **[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796.pdf)**
 - [2020/05] **[Language Models are Few-Shot Learners](https://deepai.org/publication/language-models-are-few-shot-learners)** : *GPT-3* [[Dataset]](https://github.com/openai/gpt-3)
-	- 1) Meta-learning(in-context learning : repeated sub-tasks embedded within a single sequence)
-	- 2) Our basic pre-training approach, including model, data, and training, is similar to the process described in RWC+19
-	- 3) we systematically explore different settings for learning within the context. 
-	- 4) Fine Tuning, Few Shot, One Shot, Zero Shot
-	- 5) we train GPT-3, an autoregressive language model with 175 billion parameters(10x any previous non-sparse model).
-	- 6) test in the few-shot setting. For all tasks, GPT-3 is applied without any gradient updates or fine-tuning
+	- Meta-learning(in-context learning : repeated sub-tasks embedded within a single sequence)
+	- Our basic pre-training approach, including model, data, and training, is similar to the process described in RWC+19
+	- we systematically explore different settings for learning within the context.
+	- we train GPT-3, an autoregressive language model with 175 billion parameters(10x any previous non-sparse model).
+	- test in the few-shot setting. For all tasks, GPT-3 is applied without any gradient updates or fine-tuning
 
 ### 2019
 
