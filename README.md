@@ -12,7 +12,7 @@
   </em>
 	<br/>
   <em>
-    Collection of contribution points for NLP papers & Data.
+    NLP 컨트리뷰션, 코드, 데이터 모음
   </em>
 </p>
 
@@ -34,9 +34,13 @@
 - [2020/04] **[SOLOIST: Few-shot Task-Oriented Dialog with A Single Pre-trained Auto-regressive Model](https://arxiv.org/abs/2005.05298.pdf)** : *SOLOIST*
 - [2020/04] **[FastBERT: a Self-distilling BERT with Adaptive Inference Time](https://arxiv.org/abs/2004.02178)** : *FastBERT*
 - [2020/04] **[FLAT: Chinese NER Using Flat-Lattice Transformer](https://arxiv.org/abs/2004.11795)** : *FLAT*
-- [2020/05] **[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796.pdf)**
+- [2020/05] **[A Simple Language Model for Task-Oriented Dialogue](https://arxiv.org/abs/2005.00796.pdf)** [[Dataset]](https://github.com/budzianowski/multiwoz)
+	- 태스크 중심 대화(Task-oriented dialogue)와 관련한 연구 논문
+		- 태스크 중심 대화는 사용자 인텐트를 탐지하고, 대화 정책에 따른 system action을 결정하고 응답을 생성하는데 초점이 있음.
+	- 이 연구에서 제안한 SimpleTOD 접근 방법은 dialogue state tracking의 state-of-the-art 성능을 보임.
+	- End-to-End 태스크 중심대화는 end-to-end 솔루션의 방향으로 전환중.
 - [2020/05] **[Language Models are Few-Shot Learners](https://deepai.org/publication/language-models-are-few-shot-learners)** : *GPT-3* [[Dataset]](https://github.com/openai/gpt-3)
-	- Meta-learning(in-context learning : repeated sub-tasks embedded within a single sequence)
+	- 메타 러닝(in-context learning : repeated sub-tasks embedded within a single sequence
 	- Our basic pre-training approach, including model, data, and training, is similar to the process described in RWC+19
 	- we systematically explore different settings for learning within the context.
 	- we train GPT-3, an autoregressive language model with 175 billion parameters(10x any previous non-sparse model).
